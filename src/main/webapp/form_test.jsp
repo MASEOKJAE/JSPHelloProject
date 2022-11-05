@@ -1,16 +1,3 @@
-<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
-<%--<!DOCTYPE html>--%>
-<%--<html>--%>
-<%--<head>--%>
-<%--    <title>JSP - Hello World</title>--%>
-<%--</head>--%>
-<%--<body>--%>
-<%--<h1><%= "Hello World!" %>--%>
-<%--</h1>--%>
-<%--<br/>--%>
-<%--<a href="hello-servlet">Hello Servlet</a>--%>
-<%--</body>--%>
-<%--</html>--%>
 <%--
   Created by IntelliJ IDEA.
   User: maseokjae
@@ -18,7 +5,7 @@
   Time: 1:22 PM
   To change this template use File | Settings | File Templates.
 --%>
-<%--<%@ page contentType="text/html;charset=UTF-8" language="java" %>--%>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
 <html lang="en">
 <head>
