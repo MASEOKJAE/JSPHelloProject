@@ -35,6 +35,5 @@ Travel: <%=travel%> <br/>
 Favorite Color: <%=color%> <br/>
 Comment Title: <%=comment_t%> <br/>
 Comment: <%=comment%> <br/>
-
 </body>
 </html>
